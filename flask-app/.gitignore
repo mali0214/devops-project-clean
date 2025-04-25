@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+*.env
+.DS_Store
+*.log
+*.sqlite3
+*.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+crash.log
+*.tfvars
